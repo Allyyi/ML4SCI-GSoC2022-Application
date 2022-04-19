@@ -4,7 +4,16 @@
 
 ## Interested Project
 
-**Vision Transformers for End-to-End Particle Reconstruction for the CMS Experiment**
+1. **Graph Neural Networks for End-to-End Particle Identification with the CMS Experiment** (*update)
+
+2. **Vision Transformers for End-to-End Particle Reconstruction for the CMS Experiment**
+
+## Repository Structure
+
+1. The solution of common tasks are recorded in folder **Task1** and **Task2**.
+2. The solution of specific task for Vision Transformer for particle reconstruction is recorded in folder **Task3**.
+3. The solution and analysis of Graph Neural Network is recorded in folder **Task4**.
+4. Analysis for experiment **Task1, Task2, and Task3** are witten in the following Experiment Analysis section. The analysis of GNN in **Task4** can be found in [Task4/GNN_Analysis.md](./Task4/GNN_Analysis.md).
 
 ## Experiment Analysis
 
