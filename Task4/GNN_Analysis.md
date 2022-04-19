@@ -16,7 +16,7 @@ Due to the memory limitaiton of my CPU and GPU, I was able to read 10,000 quark/
 
 The model architectures are shown in the following figure. They adpot the same training strategy,  including Cross Entropy Loss function, Adam Optimizer function, and similar classification head.
 
-<img src="https://images.gitee.com/uploads/images/2022/0419/161932_6344440d_9802307.png " alt="image-20220419155408772" style="zoom:40%;" />
+<img src="https://imgtu.com/i/LBKI6s" alt="image-20220419155408772" style="zoom:40%;" />
 
 #### Comparison
 
